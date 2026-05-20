@@ -76,5 +76,5 @@ Indian Institute of Technology Bombay
 
 ## Contact
 
-[![Email](https://img.shields.io/badge/Email-sonwaneg862@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sonwaneg862@gmail.com)
+[![Email](https://img.shields.io/badge/Email-sonawaneg862@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sonawaneg862@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Cosmox999-181717?style=flat&logo=github)](https://github.com/Cosmox999)
